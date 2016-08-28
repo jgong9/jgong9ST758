@@ -170,4 +170,3 @@ lines(x[c(175:200,1:25)],y[c(175:200,1:25)],col=1,lwd=15) #$ black
 dev.off() #$ save the Olympic Symbol image 
 
 #$ end of HW1
-#$ test2
